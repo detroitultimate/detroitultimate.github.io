@@ -1,2 +1,2 @@
 # detroitultimate.github.io
-* [DUFL](https://detroitultimate.github.io/DUFL/dufl_portable.html)
+* [Score Board](https://detroitultimate.github.io/scoreboard/dufl_portable.html)
