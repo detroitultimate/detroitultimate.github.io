@@ -1,4 +1,4 @@
-#![DUFL](https://detroitultimate.github.io/scoreboard/dufl-header.jpg)
+# ![DUFL](https://detroitultimate.github.io/scoreboard/dufl-header.jpg)
 
 * [Score Board](https://detroitultimate.github.io/scoreboard/dufl_portable.html)
 
