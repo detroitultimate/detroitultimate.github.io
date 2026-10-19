@@ -2,7 +2,7 @@
 
 * [Score Board](https://detroitultimate.github.io/scoreboard/dufl_portable.html)
 
-* [How to use](https://detroitultimate.github.io/scoreboard/README.md)
+* [How to use](https://detroitultimate.github.io/scoreboard/README)
 
 ## League teams to import
 
